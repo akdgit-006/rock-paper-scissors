@@ -1,45 +1,46 @@
 # 🎮 Rock Paper Scissors
 
+## 🚀 Live Demo
+
+[Play the Game] https://akdgit-006.github.io/rock-paper-scissors/
+
+## 📖 Overview
+
 A browser-based Rock Paper Scissors game built using HTML, CSS and JavaScript.
 
-## Features
+This project was initially developed as a console-based application using prompt() and console.log(), then refactored into a fully interactive DOM-based web application.
+
+## ✨ Features
 
 - Interactive UI
-- Scoreboard
+- Live scoreboard
+- Random computer opponent
 - First to 5 wins
 - Reset functionality
-- Responsive design
-- Computer opponent using random selection
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
-## Files
+## 📂 Project Structure
 
-- index.html → Page structure
-- style.css → Styling
-- script.js → DOM version of the game
-- logic-version.js → Original console version
+- `index.html` - Page structure
+- `style.css` - Styling
+- `script.js` - DOM version
+- `logic_version.js` - Console version
 
-## Concepts Practiced
+## 🎯 Learning Outcomes
 
 - DOM Manipulation
-- Event Listeners
-- Functions
-- Conditionals
-- Loops
-- Flexbox
-- JavaScript Fundamentals
-
-## What I Learned
-
-This project helped me understand:
-
-- The difference between console-based and DOM-based applications
-- querySelector() and querySelectorAll()
+- Event Handling
+- querySelector()
+- querySelectorAll()
 - addEventListener()
 - textContent
-- Converting game logic into a browser application
+- Game Logic
+
+## 📸 Screenshot
+
+(Add screenshot here later)
